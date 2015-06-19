@@ -16,7 +16,7 @@ image up to it so other people with Docker can run it.
 
 ## Step 1: Sign up for an account
 
-1. Use your browser to navigate to <a href="https://hub.docker.com/account/signup/" target="_blank">the Docker Hub signup page</a>.
+1. Use your browser to navigate to <a href="https://hub.docker.com/?utm_source=getting_started_guide&utm_medium=embedded_Linux&utm_campaign=create_docker_hub_account" target="_blank">the Docker Hub signup page</a>.
 	
 	Your browser displays the page.
 	

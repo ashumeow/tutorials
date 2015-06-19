@@ -26,7 +26,7 @@ If you don't already have a terminal open, open one now:
 
 ## Step 2: Locate the whalesay image
 
-1. Open your browser and  <a href="http://hub.docker.com" target=_blank> browse to the Docker Hub</a>.
+1. Open your browser and  <a href="https://hub.docker.com/?utm_source=getting_started_guide&utm_medium=embedded_Windows&utm_campaign=find_whalesay" target=_blank> browse to the Docker Hub</a>.
     
     ![Whalesay image](/img/browse_and_search.png)
 

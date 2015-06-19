@@ -8,7 +8,7 @@ identifier = "mac_getstarted"
 
 # Get Started with Docker for Mac OS X
 
-#### This is written for users of Mac OS X. If you are not using Mac OS X, see the [Linux](/linux/started) or [Windows](/windows/started) version.
+#### **This is written for users of Mac OS X. If you are not using Mac OS X, see the [Linux](/linux/started) or [Windows](/windows/started) version.**
 
 This getting started is for non-technical users who are interested in learning about Docker. By following this getting started, you'll learn fundamental Docker features by performing some simple tasks. You'll learn how to:
 
