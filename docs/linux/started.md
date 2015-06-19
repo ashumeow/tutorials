@@ -8,7 +8,7 @@ identifier = "linux_getstarted"
 
 # Get Started with Docker for Linux
 
-**This is written for users of Linux distribution such as Ubuntu. If you are not using Linux, see the [Windows](/windows/started) or [Mac OS X](/mac/started) version.**
+#### This is written for users of Linux distribution such as Ubuntu. If you are not using Linux, see the [Windows](/windows/started) or [Mac OS X](/mac/started) version.
 
 This getting started is for non-technical users who are interested in learning about Docker. By following this getting started, you'll learn fundamental Docker features by performing some simple tasks. You'll learn how to:
 

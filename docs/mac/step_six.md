@@ -192,4 +192,7 @@ You've done a lot, you've done all of the following fundamental Docker tasks.
 * create a Docker Hub account and repository
 * pushed your image to Docker Hub for others to share
 
+<a href="https://twitter.com/intent/tweet?button_hashtag=dockercon&text=Created%20my%20first%20%40docker%20image%2C%20find%20it%20on%20the%20%23dockerhub!" class="twitter-hashtag-button" data-related="intsomniac" target="_blank">How about tweeting your success to your peeps at #dockercon?</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
 You've only scratched the surface of what Docker can do. Go to the next page to [learn more](/mac/last_page).

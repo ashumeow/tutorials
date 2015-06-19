@@ -8,7 +8,7 @@ identifier = "windows_getstarted"
 
 # Get Started with Docker for Windows
 
-**This is written for users of Windows. If you are not using Windows, see the [Linux](/linux/started) or [Mac OS X](/mac/started) version.**
+#### This is written for users of Windows. If you are not using Windows, see the [Linux](/linux/started) or [Mac OS X](/mac/started) version.
 
 This getting started is for non-technical users who are interested in learning about Docker. By following this getting started, you'll learn fundamental Docker features by performing some simple tasks. You'll learn how to:
 
