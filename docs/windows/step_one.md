@@ -107,7 +107,7 @@ In this step, you start Boot2Docker and run a simple Docker command.
 
     If you aren't familiar with a terminal window, here are some quick tips. 
     
-    ![Teriminal](/img/terminal.png) 
+    ![Teriminal](/tutimg/terminal.png) 
     
     The prompt is traditionally a `$` dollar sign. You type commands into the
     *command line* which is the area after the prompt. Your cursor is indicated

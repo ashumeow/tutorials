@@ -38,7 +38,7 @@ new image.
 
     The command you type looks like this:
     
-     ![tagger](/img/tagger.png)
+     ![tagger](/tutimg/tagger.png)
     
     Of course, your account name will be your own. So, you type the command with
     your image's ID and your account name and press RETURN.
@@ -89,7 +89,7 @@ new image.
 			
 9. Return to your profile on Docker Hub to see your new image.
 
-	 ![New image](/img/new_image.png)
+	 ![New image](/tutimg/new_image.png)
 	
 # Step 2: Pull your new image
 

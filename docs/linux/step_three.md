@@ -15,7 +15,7 @@ People all over the world create Docker images. You can find these images by bro
 
 1. Open your browser and  <a href="https://hub.docker.com/?utm_source=getting_started_guide&utm_medium=embedded_Linux&utm_campaign=find_whalesay" target=_blank> browse to the Docker Hub</a>.
     
-    ![Whalesay image](/img/browse_and_search.png)
+    ![Whalesay image](/tutimg/browse_and_search.png)
 
 	The Docker Hub contains images from individuals like you and official images
 	from organizations like RedHat, IBM, Google, and a whole lot more.
@@ -26,13 +26,13 @@ People all over the world create Docker images. You can find these images by bro
 
 3. Enter the word `whalesay` in the search bar.
 
-     ![Whalesay image](/img/image_found.png)
+     ![Whalesay image](/tutimg/image_found.png)
 
 4. Click on the **docker/whalesay** image in the results.
 
     The browser displays the repository for the **whalesay** image. 
    
-      ![Whale repo](/img/whale_repo.png)
+      ![Whale repo](/tutimg/whale_repo.png)
 
 	  Each image repository contains information about an image. It should
     include information such as what kind of software the image contains and
