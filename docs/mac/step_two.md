@@ -11,7 +11,7 @@ weight = 2
 
 As the last step in your installation, you ran the `docker run hello-world` command. With this one command, you completed the core tasks to using  Docker. The command you ran had three parts.
 
-{{< figure src="/img/container_explainer.png" >}}
+{{< figure src="/tutimg/container_explainer.png" >}}
 
 A *container* is a stripped-to-basics version of a Linux operating system. An *image* is software you load into a container. When you ran the command, the Docker software:
 

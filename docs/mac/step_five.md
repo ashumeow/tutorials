@@ -20,7 +20,7 @@ image up to it so other people with Docker can run it.
 	
 	Your browser displays the page.
 	
-	  ![Hub signup](/img/hub_signup.png)
+	  ![Hub signup](/tutimg/hub_signup.png)
 
 2. Fill out the form on the signup page.
 
@@ -55,7 +55,7 @@ Before you can share anything on the hub, you need to verify your email address.
 
     When you are done, your form should look similar to the following:
 
-    ![Add repository](/img/add_repository.png)
+    ![Add repository](/tutimg/add_repository.png)
 
 6. Press **Add Repository** when you are done.
 

@@ -33,7 +33,7 @@ To find out what version of the OS you have:
 
 ## Step 2: Install Boot2Docker
 
-1. Click <a href="https://github.com/boot2docker/osx-installer/releases/download/v1.6.2/Boot2Docker-1.6.2.pkg" >to download the Boot2Docker installer</a>.
+1. Click <a href="https://github.com/boot2docker/osx-installer/releases/download/v1.7.0/Boot2Docker-1.7.0.pkg" >to download the Boot2Docker installer</a>.
    
 	  The browser downloads the package to your machine. It can take about a
     minute.
@@ -97,7 +97,7 @@ In this step, you start Boot2Docker and run a simple Docker command.
 
     If you aren't familiar with a terminal window, here are some quick tips. 
     
-    ![Teriminal](/img/terminal.png) 
+    ![Teriminal](/tutimg/terminal.png) 
     
     The prompt is traditionally a `$` dollar sign. You type commands into the
     *command line* which is the area after the prompt. Your cursor is indicated
