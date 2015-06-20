@@ -56,7 +56,7 @@ In this section, you install the Boot2Docker software and several "helper" appli
 
 If you have a previous version of VirtualBox installed, do not reinstall it with the Boot2Docker installer. When prompted, uncheck it.
 
-1. Click <a href="https://github.com/boot2docker/windows-installer/releases/download/v1.6.2/docker-install.exe" >to download the Boot2Docker for Windows installer</a>.
+1. Click <a href="https://github.com/boot2docker/windows-installer/releases/download/v1.7.0/docker-install.exe" >to download the Boot2Docker for Windows installer</a>.
    
 	  The browser downloads the installer to your machine. It can take about a
     minute.
