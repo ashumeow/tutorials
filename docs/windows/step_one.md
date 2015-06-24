@@ -1,5 +1,5 @@
 +++
-title = "Install Docker for Wiindows"
+title = "Install Docker for Windows"
 description = "Getting started with Docker"
 keywords = ["install, demo, Docker, windows"]
 [menu.windows]
