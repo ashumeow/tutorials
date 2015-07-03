@@ -66,3 +66,6 @@ Before you can share anything on the hub, you need to verify your email address.
 On this page, you opened an account on Docker Hub and created a new repository.
 In the next section, you populate the repository [by tagging and pushing the
 image you created earlier](/windows/step_six).
+
+
+&nbsp;

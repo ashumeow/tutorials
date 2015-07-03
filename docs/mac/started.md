@@ -33,13 +33,4 @@ Go to [the next page to install](/mac/step_one).
 
 
 
-	
-
-
-
-
-		
-
-	
-
-	
+&nbsp;

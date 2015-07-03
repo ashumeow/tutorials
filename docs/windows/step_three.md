@@ -138,3 +138,6 @@ Linux software on your Mac computer.  You learned that running an image copies
 it on your computer.  Now, you are ready to create your own image with Docker.
 
 On the next page you learn how [to build your own image](/windows/step_four).
+
+
+&nbsp;
