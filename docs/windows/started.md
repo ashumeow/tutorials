@@ -33,13 +33,4 @@ Go to [the next page to install](/windows/step_one).
 
 
 
-	
-
-
-
-
-		
-
-	
-
-	
+&nbsp;

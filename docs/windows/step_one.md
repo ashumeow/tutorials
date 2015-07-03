@@ -149,3 +149,6 @@ In this step, you start Boot2Docker and run a simple Docker command.
 At this point, you have successfully installed Docker. Leave the Boot2Docker
 window open. Go to the next page to [read a very short introduction to Docker
 images and containers](/windows/step_two).
+
+
+&nbsp;

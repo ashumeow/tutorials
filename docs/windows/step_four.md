@@ -238,3 +238,6 @@ On this page, you learned to build an image by writing your own Dockerfile.
 You ran your image in a container. You also just used Linux from your Mac yet
 again. In the next section, you take the first step in sharing your image by
 [creating a Docker Hub account](/windows/step_five).
+
+
+&nbsp;

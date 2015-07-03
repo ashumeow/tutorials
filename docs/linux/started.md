@@ -32,14 +32,4 @@ open one and type commands.
 Go to [the next page to install](/linux/step_one).
 
 
-
-	
-
-
-
-
-		
-
-	
-
-	
+&nbsp;

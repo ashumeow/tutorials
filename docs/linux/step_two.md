@@ -28,3 +28,6 @@ Who built the `hello-world` software image though? In this case, Docker did but 
 ## Where to go next
 
 See, that was quick wasn't it? Now, you are ready to do some really fun stuff with Docker. Go on to the next part [to find and run the whalesay image](/linux/step_three).
+
+
+&nbsp;

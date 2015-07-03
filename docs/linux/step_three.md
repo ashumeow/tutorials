@@ -125,3 +125,6 @@ On this page, you learned to search for images on Docker Hub. You used your
 command line to run an image. You learned that running an image copies
 it on your computer.  Now, you are ready to create your own image with Docker.
 Go on to the next part [to build your own image](/linux/step_four).
+
+
+&nbsp;
