@@ -201,8 +201,7 @@ In this step, you verify the new images is on your computer and then you run you
 ## Where to go next
 
 On this page, you learned to build an image by writing your own Dockerfile.
-You ran your image in a container. You also just used Linux from your Mac yet
-again. In the next section, you take the first step in sharing your image by
+You ran your image in a container. In the next section, you take the first step in sharing your image by
 [creating a Docker Hub account](/linux/step_five).
 
 
